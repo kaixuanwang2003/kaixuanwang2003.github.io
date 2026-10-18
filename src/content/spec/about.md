@@ -208,6 +208,13 @@ If you're interested in related topics and would like to collaborate, feel free 
 </details>
 
 <details>
+<summary><strong>Co-Organizer</strong> @ <a href="https://trifusion.b12sites.com/index">TriFusion Workshop, SIGGRAPH Asia 2025</a></summary>
+
+- TriFusion: Towards Embodied Intelligence Across Humans, Avatars, and Humanoid Robotics
+
+</details>
+
+<details>
 <summary>Teaching Assistant @ CS, HKU</summary>
 
 - [COMP3340](https://cs.hku.hk/index.php/programmes/course-offered?infile=2024/comp3340.html) Applied Deep Learning
