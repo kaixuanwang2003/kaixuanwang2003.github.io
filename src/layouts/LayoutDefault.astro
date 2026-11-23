@@ -43,6 +43,11 @@ const dark = themeConfig.appearance.theme === 'dark'
       <SiteFooter />
     </footer>
 
+    <!-- MapMyVisitors tracker: kept off-screen so it counts visits without being shown -->
+    <div aria-hidden="true" style="position:absolute;left:-9999px;top:0;width:1px;height:1px;overflow:hidden;">
+      <script is:inline type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=VcYa2fzwlVloy9hmWVPIXK7S5cx2IP_PO_qCEHr3EEA"></script>
+    </div>
+
     <script>
       document.addEventListener('animationend', removeAnimation, false)
       function removeAnimation() {
